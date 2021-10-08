@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "../myStyle.css";
-import Image from "../media/kiwamigenerator.png";
+import Image from "../media/romantic_gentleman.png";
 
 export default class Home extends Component {
     render() {
@@ -8,7 +8,6 @@ export default class Home extends Component {
             <div className="row" style={{padding: "75px", margin: "0 auto"}}>
                 
                 <div className="col-6 col-s-6">
-                    {/* <div style={{height: "275px"}}> */}
                     <div>
                         <img src={Image} alt="Nham N. Dinh"/>
                     </div>

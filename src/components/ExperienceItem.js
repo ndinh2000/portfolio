@@ -26,7 +26,6 @@ export default class ExperienceItem extends Component {
     render() {
         return (
             <div className="experience-item">
-                {/* <h1>{this.props.employer}</h1> */}
                 <h1>{Parser(this.getTitle())}</h1>
                 <h2>{this.props.jobTitle}</h2>
                 <h3>{this.props.timeFrame}</h3>

@@ -10,13 +10,13 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+10/10
 - 1/1 Readme
 - 1/2 Basic HTML content
 - 1/1 Basic CSS styling
 - 1/1 Advanced feature
 - 2/2 Responsive layout
-- */1 Passes validation checks
+- 1/1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
