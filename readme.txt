@@ -67,4 +67,4 @@ Khoa Nguyen. We discussed about importing hard data from external data.js file t
 
 6. Is there anything special we need to know in order to run your code?
 - npm install
-- npm run
+- npm start
